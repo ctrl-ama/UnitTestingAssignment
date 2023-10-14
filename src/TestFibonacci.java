@@ -6,7 +6,7 @@ public class TestFibonacci {
     @Test
     public void testFirstTenFibonacciNumbers() {
         int n = 10; // The number of Fibonacci numbers to generate
-        int[] expected = { 0, 1, 1, 2, 3, 5, 8, 13, 21,34};
+                int[] expected = { 0, 1, 1, 2, 3, 5, 8, 13, 21,34};
 
         int[] fibonacci = new int[n];
 
